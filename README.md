@@ -56,6 +56,15 @@ Microsoft Azure fundamentals · Cisco networking fundamentals · Linux basics
 
 ---
 
+## Currently Building
+
+- A practical Data/BI portfolio focused on Power BI, Microsoft Fabric, SQL and Python
+- Small, reproducible learning repositories for core development workflows
+- A first Hamburg-based exploratory data analysis project using public district profile data
+- A static portfolio website for datatidehh.de
+
+---
+
 ## Selected Repositories
 
 | Repository | Focus |
