@@ -42,17 +42,17 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 ### Data & BI
 Power BI · Microsoft Fabric · SQL · Excel · Data Modelling · KPIs · Reporting
 
-### Programming
-Python · Java basics · C/C++ basics
+### Programming & Analysis
+Python · pandas · NumPy · matplotlib · Java basics · C/C++ basics
 
 ### Databases
-Microsoft SQL Server · MySQL · MariaDB · Relational data modelling
+Microsoft SQL Server · SQL Server in Docker · MySQL · MariaDB · Relational data modelling
 
 ### Development Tools
 Git · GitHub · VS Code · PyCharm · IntelliJ IDEA · DataGrip · DataSpell · CLion
 
-### Cloud, Networking & Infrastructure
-Microsoft Azure fundamentals · Cisco networking fundamentals · Linux basics
+### Cloud, Containers, Networking & Infrastructure
+Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networking fundamentals
 
 ---
 
