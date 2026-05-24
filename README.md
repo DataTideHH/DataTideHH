@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Profile
+## Profile
 
 I am training as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical portfolio around **Data/BI, process analytics, Power BI, Microsoft Fabric, SQL and Python**.
 
@@ -24,7 +24,7 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 | Area | Current Focus |
 |---|---|
@@ -37,7 +37,7 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Data & BI
 Power BI · Microsoft Fabric · SQL · Excel · Data Modelling · KPIs · Reporting
@@ -56,7 +56,19 @@ Microsoft Azure fundamentals · Cisco networking fundamentals · Linux basics
 
 ---
 
-## 📌 Current Portfolio Direction
+## Selected Repositories
+
+| Repository | Focus |
+|---|---|
+| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
+| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 setup test project using IntelliJ IDEA and Eclipse Temurin |
+| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 setup test project using CLion, CMake and Ninja |
+
+These repositories document small, practical setup and learning projects. They are intentionally simple and focus on clean tooling, reproducible environments and basic development workflows.
+
+---
+
+## Current Portfolio Direction
 
 I am building projects that demonstrate practical Data/BI skills:
 
@@ -70,7 +82,7 @@ I am especially interested in roles where **data, processes, reporting and stake
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 ### Completed
 
@@ -88,7 +100,7 @@ I am especially interested in roles where **data, processes, reporting and stake
 
 ---
 
-## 💼 What I Bring
+## What I Bring
 
 - Strong communication and stakeholder orientation
 - Practical understanding of business processes
@@ -98,7 +110,7 @@ I am especially interested in roles where **data, processes, reporting and stake
 
 ---
 
-## 🔗 Contact
+## Contact
 
 - LinkedIn: [linkedin.com/in/datatidehh](https://www.linkedin.com/in/datatidehh/)
 - GitHub: [github.com/DataTideHH](https://github.com/DataTideHH)
