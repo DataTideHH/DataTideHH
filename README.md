@@ -2,13 +2,19 @@
 
 **Data & Process Analysis · Power BI · Microsoft Fabric · SQL · Python · Hamburg**
 
-I am training as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical portfolio around **Data/BI, process analytics, Power BI, Microsoft Fabric, SQL and Python**.
-
-My focus is on turning business processes into clear data models, dashboards, KPIs and actionable insights.
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Hamburg](https://img.shields.io/badge/Hamburg-Germany-blue)
 
 ---
 
-## Profile
+## 👋 Profile
+
+I am training as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical portfolio around **Data/BI, process analytics, Power BI, Microsoft Fabric, SQL and Python**.
+
+My focus is on turning business processes into clear data models, dashboards, KPIs and actionable insights.
 
 My background combines communications, PR and media work, academic experience in German and American Studies as well as Journalism, Media and Communication Studies, and experience in international business contexts.
 
@@ -18,32 +24,20 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 
 ---
 
-## Focus Areas
+## 🎯 Focus Areas
 
-- Data analysis and process analysis
-- Power BI dashboards, reporting and KPI design
-- SQL, relational databases and data modelling
-- Python for automation, analysis and prototyping
-- Microsoft Fabric and Azure fundamentals
-- Networking fundamentals and system understanding
-
----
-
-## Current Portfolio Direction
-
-I am building projects that demonstrate practical Data/BI skills:
-
-- Power BI dashboards with clean data models and business KPIs
-- SQL-based analysis and reporting workflows
-- Python scripts for data cleaning, automation and analysis
-- Microsoft Fabric / Azure-oriented data pipeline concepts
-- Process analytics use cases with business relevance
-
-I am especially interested in roles where **data, processes, reporting and stakeholder communication** overlap.
+| Area | Current Focus |
+|---|---|
+| Data & BI | Power BI, reporting, KPIs, dashboards |
+| Data Modelling | SQL, relational databases, clean data structures |
+| Analytics | Python, data cleaning, automation, analysis |
+| Microsoft Stack | Power BI, Microsoft Fabric, Azure fundamentals |
+| Infrastructure | Linux basics, Cisco networking fundamentals |
+| Business Context | Process analysis, documentation, stakeholder communication |
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Data & BI
 Power BI · Microsoft Fabric · SQL · Excel · Data Modelling · KPIs · Reporting
@@ -62,7 +56,21 @@ Microsoft Azure fundamentals · Cisco networking fundamentals · Linux basics
 
 ---
 
-## Certifications
+## 📌 Current Portfolio Direction
+
+I am building projects that demonstrate practical Data/BI skills:
+
+- Power BI dashboards with clean data models and business KPIs
+- SQL-based analysis and reporting workflows
+- Python scripts for data cleaning, automation and analysis
+- Microsoft Fabric / Azure-oriented data pipeline concepts
+- Process analytics use cases with business relevance
+
+I am especially interested in roles where **data, processes, reporting and stakeholder communication** overlap.
+
+---
+
+## 🏅 Certifications
 
 ### Completed
 
@@ -74,13 +82,13 @@ Microsoft Azure fundamentals · Cisco networking fundamentals · Linux basics
 
 - Cisco CCNA — exam scheduled for July 2026
 - PCEP / PCAP Python
-- Microsoft AZ-900 - exam scheduled for June 2026
+- Microsoft AZ-900
 - Microsoft PL-300 Power BI Data Analyst
-- AEVO - exam scheduled for September 2026
+- AEVO
 
 ---
 
-## What I Bring
+## 💼 What I Bring
 
 - Strong communication and stakeholder orientation
 - Practical understanding of business processes
@@ -90,7 +98,7 @@ Microsoft Azure fundamentals · Cisco networking fundamentals · Linux basics
 
 ---
 
-## Contact
+## 🔗 Contact
 
 - LinkedIn: [linkedin.com/in/datatidehh](https://www.linkedin.com/in/datatidehh/)
 - GitHub: [github.com/DataTideHH](https://github.com/DataTideHH)
