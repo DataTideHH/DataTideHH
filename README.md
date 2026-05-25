@@ -71,8 +71,8 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 |---|---|
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
-| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 setup test project using IntelliJ IDEA and Eclipse Temurin |
-| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 setup test project using CLion, CMake and Ninja |
+| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA, Eclipse Temurin and a small IPv4 subnet calculator |
+| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
 
 These repositories document small, practical setup and learning projects. They are intentionally simple and focus on clean tooling, reproducible environments and basic development workflows.
 
