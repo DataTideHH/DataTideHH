@@ -2,7 +2,7 @@
   <img src="assets/datatidehh-github-banner.png" alt="DataTideHH profile banner with portrait, logo and data branding" width="100%">
 </p>
 
-# Tobias | DataTideHH
+# Tobias Wietelmann | DataTideHH
 
 **Data & Process Analysis · Power BI · Microsoft Fabric · SQL · Python · Hamburg**
 
