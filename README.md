@@ -64,7 +64,7 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 
 - A practical Data/BI portfolio focused on Power BI, Microsoft Fabric, SQL and Python
 - Small, reproducible learning repositories for core development workflows
-- A first Hamburg-based exploratory data analysis project using public district profile data
+- A first Hamburg-based exploratory data analysis project: [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics)
 - A static portfolio website for datatidehh.de
 
 ---
