@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/datatidehh-github-banner.png" alt="DataTideHH profile banner with portrait, logo and data branding" width="100%">
-</p>
-
 # Tobias Wietelmann | DataTideHH
 
 **Data & Process Analysis · Power BI · Microsoft Fabric · SQL · Python · Hamburg**
@@ -36,7 +32,7 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 | Data Modelling | SQL, relational databases, clean data structures |
 | Analytics | Python, data cleaning, automation, analysis |
 | Microsoft Stack | Power BI, Microsoft Fabric, Azure fundamentals |
-| Infrastructure | Linux basics, Cisco networking fundamentals |
+| Infrastructure | Linux basics, Cisco networking fundamentals, secure remote access documentation |
 | Business Context | Process analysis, documentation, stakeholder communication |
 
 ---
@@ -44,19 +40,24 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 ## Tech Stack
 
 ### Data & BI
+
 Power BI · Microsoft Fabric · SQL · Excel · Data Modelling · KPIs · Reporting
 
 ### Programming & Analysis
+
 Python · pandas · NumPy · matplotlib · Java basics · C/C++ basics
 
 ### Databases
+
 Microsoft SQL Server · SQL Server in Docker · MySQL · MariaDB · Relational data modelling
 
 ### Development Tools
+
 Git · GitHub · VS Code · PyCharm · IntelliJ IDEA · DataGrip · DataSpell · CLion
 
 ### Cloud, Containers, Networking & Infrastructure
-Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networking fundamentals
+
+Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networking fundamentals · Tailscale remote access lab
 
 ---
 
@@ -64,7 +65,8 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 
 - A practical Data/BI portfolio focused on Power BI, Microsoft Fabric, SQL and Python
 - Small, reproducible learning repositories for core development workflows
-- A first Hamburg-based exploratory data analysis project: [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics)
+- A Hamburg-based exploratory data analysis project: [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics)
+- A documented remote-access lab using Tailscale across Windows, macOS and iOS devices
 - A static portfolio website for datatidehh.de
 
 ---
@@ -73,10 +75,12 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 
 | Repository | Focus |
 |---|---|
+| [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Initial Hamburg district profile data analysis using Python, pandas and public city data |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
-| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA, Eclipse Temurin and a small IPv4 subnet calculator |
-| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
+| [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab connecting Windows, macOS and iOS devices, including SSH over a private Tailnet |
+| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA and Eclipse Temurin |
+| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake and Ninja |
 
 These repositories document small, practical setup and learning projects. They are intentionally simple and focus on clean tooling, reproducible environments and basic development workflows.
 
@@ -91,6 +95,7 @@ I am building projects that demonstrate practical Data/BI skills:
 - Python scripts for data cleaning, automation and analysis
 - Microsoft Fabric / Azure-oriented data pipeline concepts
 - Process analytics use cases with business relevance
+- Security-aware infrastructure documentation for small learning labs
 
 I am especially interested in roles where **data, processes, reporting and stakeholder communication** overlap.
 
@@ -121,10 +126,13 @@ I am especially interested in roles where **data, processes, reporting and stake
 - Structured learning path in Data/BI and IT fundamentals
 - Hands-on portfolio development with GitHub, SQL, Python and Power BI
 - Clear focus on Microsoft Data Stack and Hamburg-based opportunities
+- Additional practical exposure to networking, Linux basics and secure remote-access documentation
 
 ---
 
 ## Contact
 
+- Website: [datatidehh.de](https://datatidehh.de)
 - LinkedIn: [linkedin.com/in/datatidehh](https://www.linkedin.com/in/datatidehh/)
+- Kaggle: [kaggle.com/DataTideHH](https://www.kaggle.com/DataTideHH)
 - GitHub: [github.com/DataTideHH](https://github.com/DataTideHH)
