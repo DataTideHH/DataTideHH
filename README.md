@@ -70,7 +70,7 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 - A practical Data/BI portfolio focused on Power BI, Microsoft Fabric, SQL and Python
 - Small, reproducible learning repositories for core development workflows
 - A Hamburg-based exploratory data analysis project: [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics)
-- A documented remote-access lab using Tailscale across Windows, macOS and iOS devices
+- A documented remote-access lab using Tailscale across Windows, macOS and iOS devices: [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab)
 - A static portfolio website for datatidehh.de
 
 ---
@@ -98,38 +98,7 @@ I am building projects that demonstrate practical Data/BI skills:
 - SQL-based analysis and reporting workflows
 - Python scripts for data cleaning, automation and analysis
 - Microsoft Fabric / Azure-oriented data pipeline concepts
-- Process analytics use cases with business relevance
-- Security-aware infrastructure documentation for small learning labs
-
-I am especially interested in roles where **data, processes, reporting and stakeholder communication** overlap.
-
----
-
-## Certifications
-
-### Completed
-
-- EXIN Agile Scrum Master
-- EXIN Agile Product Owner Bridge
-- Linux Essentials
-
-### In Progress / Planned
-
-- Cisco CCNA — exam scheduled for July 2026
-- PCEP / PCAP Python
-- Microsoft AZ-900
-- Microsoft PL-300 Power BI Data Analyst
-- AEVO
-
----
-
-## What I Bring
-
-- Strong communication and stakeholder orientation
-- Practical understanding of business processes
-- Structured learning path in Data/BI and IT fundamentals
-- Hands-on portfolio development with GitHub, SQL, Python and Power BI
-- Clear focus on Microsoft Data Stack and Hamburg-based opportunities
+- Process analytics use cases with business relevances
 - Additional practical exposure to networking, Linux basics and secure remote-access documentation
 
 ---
