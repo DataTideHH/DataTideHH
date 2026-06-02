@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)
+
 # Tobias Wietelmann | DataTideHH
 
 **Data & Process Analysis · Power BI · Microsoft Fabric · SQL · Python · Hamburg**
