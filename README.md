@@ -95,10 +95,9 @@ These repositories document small, practical setup and learning projects. They a
 I am building projects that demonstrate practical Data/BI skills:
 
 - Power BI dashboards with clean data models and business KPIs
-- SQL-based analysis and reporting workflows
-- Python scripts for data cleaning, automation and analysis
-- Microsoft Fabric / Azure-oriented data pipeline concepts
-- Process analytics use cases with business relevances
+- SQL-based analysured learning path in Data/BI and IT fundamentals
+- Hands-on portfolio development with GitHub, SQL, Python and Power BI
+- Clear focus on Microsoft Data Stack and Hamburg-based opportunities
 - Additional practical exposure to networking, Linux basics and secure remote-access documentation
 
 ---
