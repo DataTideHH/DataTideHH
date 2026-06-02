@@ -1,4 +1,6 @@
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)
+<p align="center">
+  <img src="assets/datatidehh-github-banner.png" alt="DataTideHH profile banner with portrait, logo and data branding" width="100%">
+</p>
 
 # Tobias Wietelmann | DataTideHH
 
