@@ -83,8 +83,8 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
 | [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab connecting Windows, macOS and iOS devices, including SSH over a private Tailnet |
-| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA and Eclipse Temurin |
-| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake and Ninja |
+| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA, Eclipse Temurin and a small IPv4 subnet calculator |
+| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
 
 These repositories document small, practical setup and learning projects. They are intentionally simple and focus on clean tooling, reproducible environments and basic development workflows.
 
@@ -95,7 +95,7 @@ These repositories document small, practical setup and learning projects. They a
 I am building projects that demonstrate practical Data/BI skills:
 
 - Power BI dashboards with clean data models and business KPIs
-- SQL-based analysured learning path in Data/BI and IT fundamentals
+- Documented learning paths in Data/BI and IT fundamentals
 - Hands-on portfolio development with GitHub, SQL, Python and Power BI
 - Clear focus on Microsoft Data Stack and Hamburg-based opportunities
 - Additional practical exposure to networking, Linux basics and secure remote-access documentation
