@@ -36,7 +36,7 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 | Data Modelling | SQL, relational databases, clean data structures |
 | Analytics | Python, data cleaning, automation, analysis |
 | Microsoft Stack | Power BI, Microsoft Fabric, Azure fundamentals |
-| Infrastructure | Linux basics, Cisco networking fundamentals, secure remote access documentation |
+| Infrastructure | Linux basics, Cisco networking fundamentals, switching, VLANs, secure remote access documentation |
 | Business Context | Process analysis, documentation, stakeholder communication |
 
 ---
@@ -61,7 +61,7 @@ Git · GitHub · VS Code · PyCharm · IntelliJ IDEA · DataGrip · DataSpell ·
 
 ### Cloud, Containers, Networking & Infrastructure
 
-Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networking fundamentals · Tailscale remote access lab
+Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switching fundamentals · Tailscale remote access lab
 
 ---
 
@@ -71,6 +71,7 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 - Small, reproducible learning repositories for core development workflows
 - A Hamburg-based exploratory data analysis project: [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics)
 - A documented remote-access lab using Tailscale across Windows, macOS and iOS devices: [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab)
+- A documented Cisco switching lab for CCNA-level fundamentals: [cisco-switching-lab](https://github.com/DataTideHH/cisco-switching-lab)
 - A static portfolio website for datatidehh.de
 
 ---
@@ -83,6 +84,7 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco networki
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
 | [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab connecting Windows, macOS and iOS devices, including SSH over a private Tailnet |
+| [cisco-switching-lab](https://github.com/DataTideHH/cisco-switching-lab) | Documented Cisco switching lab using Catalyst switches for VLANs, trunks, STP and basic Layer 3 concepts |
 | [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA, Eclipse Temurin and a small IPv4 subnet calculator |
 | [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
 
@@ -98,7 +100,7 @@ I am building projects that demonstrate practical Data/BI skills:
 - Documented learning paths in Data/BI and IT fundamentals
 - Hands-on portfolio development with GitHub, SQL, Python and Power BI
 - Clear focus on Microsoft Data Stack and Hamburg-based opportunities
-- Additional practical exposure to networking, Linux basics and secure remote-access documentation
+- Additional practical exposure to networking, Linux basics, Cisco switching and secure remote-access documentation
 
 ---
 
