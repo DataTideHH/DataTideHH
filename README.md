@@ -41,6 +41,20 @@ Today, I am building a practical Data/BI profile with a strong focus on the Micr
 
 ---
 
+## How I Work
+
+I focus on reproducible, documented Data/BI workflows:
+
+- Clear business questions
+- Documented data sources
+- Simple and explainable data models
+- Validation checks before interpretation
+- Readable SQL and Python
+- Stakeholder-oriented summaries
+- Responsible use of AI-assisted tools
+
+---
+
 ## Tech Stack
 
 ### Data & BI
