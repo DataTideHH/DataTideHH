@@ -101,7 +101,7 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 
 | Repository | Focus |
 |---|---|
-| [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Initial Hamburg district profile data analysis using Python, pandas and public city data |
+| [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Altona district profile data analysis using Python, pandas, public Hamburg data and documented findings |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API project using Open-Meteo data to rank selected German cities by current weather conditions |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
