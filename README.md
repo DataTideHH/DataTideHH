@@ -94,8 +94,8 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
 | PR / Communication | IHK certificate in PR- und Medienarbeit | Completed |
 | Linux | Linux Essentials training | Completed |
-| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | In preparation |
-| Networking | Cisco CCNA (200-301) | In preparation |
+| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 07/2026 |
+| Networking | Cisco CCNA (200-301) | Exam scheduled 07/2026 |
 
 ---
 
