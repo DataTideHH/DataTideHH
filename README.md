@@ -85,6 +85,20 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 
 ---
 
+## Certifications & Training
+
+| Area | Credential / Focus | Status |
+|---|---|---|
+| Data & Process Analysis | Fachinformatiker für Daten- und Prozessanalyse (IHK) | In training, expected completion 06/2027 |
+| Agile / Scrum | EXIN Agile Scrum Master | Completed |
+| Product Ownership | EXIN Agile Product Owner Bridge | Completed |
+| PR / Communication | IHK certificate in PR- und Medienarbeit | Completed |
+| Linux | Linux Essentials training | Completed |
+| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | In preparation |
+| Networking | Cisco CCNA (200-301) | In preparation |
+
+---
+
 ## Currently Building
 
 - A practical Data/BI portfolio focused on Power BI, Microsoft Fabric, SQL and Python
