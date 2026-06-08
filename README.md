@@ -90,12 +90,14 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 | Area | Credential / Focus | Status |
 |---|---|---|
 | Data & Process Analysis | Fachinformatiker für Daten- und Prozessanalyse (IHK) | In training, expected completion 06/2027 |
+| Python | PCEP – Certified Entry-Level Python Programmer | Exam scheduled 08/2026 |
+| Python | PCAP – Certified Associate Python Programmer | Exam scheduled 08/2026 |
+| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 07/2026 |
+| Networking | Cisco CCNA (200-301) | Exam scheduled 07/2026 |
+| Linux | Linux Essentials training | Completed |
 | Agile / Scrum | EXIN Agile Scrum Master | Completed |
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
 | PR / Communication | IHK certificate in PR- und Medienarbeit | Completed |
-| Linux | Linux Essentials training | Completed |
-| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 07/2026 |
-| Networking | Cisco CCNA (200-301) | Exam scheduled 07/2026 |
 
 ---
 
