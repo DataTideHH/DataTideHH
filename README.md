@@ -115,20 +115,26 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 
 ## Selected Repositories
 
+### Core Data / BI and Process Analysis
+
 | Repository | Focus |
 |---|---|
-| [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Altona district profile data analysis using Python, pandas, public Hamburg data and documented findings |
+| [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Hamburg district profile data analysis using Python, pandas, public city data and documented findings |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API project using Open-Meteo data to rank selected German cities by current weather conditions |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
-| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib and scikit-learn |
-| [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab connecting Windows, macOS and iOS devices, including SSH over a private Tailnet |
+| [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Git, Python, statistics, SQL/databases, Java, Linux, networking/Cisco and C++ |
+
+### Supporting IT and Development Foundations
+
+| Repository | Focus |
+|---|---|
+| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment with pandas, NumPy, matplotlib, scikit-learn, PyCharm and DataSpell |
 | [cisco-switching-lab](https://github.com/DataTideHH/cisco-switching-lab) | Documented Cisco switching lab using Catalyst switches for VLANs, trunks, STP and basic Layer 3 concepts |
+| [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab connecting Windows, macOS and iOS devices, including SSH over a private Tailnet |
 | [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA, Eclipse Temurin and a small IPv4 subnet calculator |
 | [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
 
 These repositories document small, practical setup and learning projects. They are intentionally simple and focus on clean tooling, reproducible environments, documented decisions and basic development workflows.
-
----
 
 ## Current Portfolio Direction
 
