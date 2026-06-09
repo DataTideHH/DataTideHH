@@ -134,21 +134,19 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 | [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA, Eclipse Temurin and a small IPv4 subnet calculator |
 | [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
 
-These repositories document small, practical setup and learning projects. They are intentionally simple and focus on clean tooling, reproducible environments, documented decisions and basic development workflows.
+These repositories document focused, practical setup, learning and portfolio projects. They emphasize clean tooling, reproducible environments, documented decisions and basic development workflows.
 
 ## Current Portfolio Direction
 
-I am building projects that demonstrate practical Data/BI skills:
+I am building projects that demonstrate practical Data/BI and process analysis skills:
 
 - Power BI dashboards with clean data models and business KPIs
-- SQL and relational modelling for realistic training data
+- SQL and relational modelling with realistic training data
 - Python-based data collection, cleaning, analysis and small API workflows
-- Documented learning paths in Data/BI and IT fundamentals
+- Documented learning paths in Data/BI, software development and IT fundamentals
 - Hands-on portfolio development with GitHub, SQL, Python and Power BI
-- Clear focus on Microsoft Data Stack and Hamburg-based opportunities
-- Additional practical exposure to networking, Linux basics, Cisco switching and secure remote-access documentation
-
----
+- Clear focus on the Microsoft Data Stack and Hamburg-based opportunities
+- Additional practical exposure to Linux, networking, Cisco switching and secure remote-access documentation
 
 ## Contact
 
