@@ -16,7 +16,7 @@
 
 ## Profile
 
-I am training as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical portfolio around **Data/BI, process analytics, Power BI, Microsoft Fabric, SQL and Python**.
+I am building a practical professional profile in **data and process analysis** with a strong focus on **Data/BI, process analytics, Power BI, Microsoft Fabric, SQL and Python**.
 
 My focus is on turning business processes into clear data models, dashboards, KPIs and actionable insights.
 
@@ -65,7 +65,7 @@ Power BI · Microsoft Fabric · SQL · Excel · Data Modelling · KPIs · Report
 
 ### Programming & Analysis
 
-Python · pandas · NumPy · matplotlib · scikit-learn basics · Java basics · C/C++ basics
+Python · pandas · NumPy · Matplotlib · scikit-learn fundamentals · Java basics · C/C++ basics
 
 ### APIs & Data Workflows
 
@@ -122,7 +122,7 @@ Microsoft Azure fundamentals · Docker Desktop · Linux basics · Cisco switchin
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Hamburg district profile data analysis using Python, pandas, public city data and documented findings |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API project using Open-Meteo data to rank selected German cities by current weather conditions |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 Docker learning project using DataGrip, SQL scripts and DPA-style training data |
-| [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Git, Python, statistics, SQL/databases, Java, Linux, networking/Cisco and C++ |
+| [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Python data stack, Microsoft Data Stack, Power BI/Fabric, SQL/databases, Git, Linux, networking/Cisco and software development |
 
 ### Supporting IT and Development Foundations
 
