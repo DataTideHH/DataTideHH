@@ -37,7 +37,7 @@ My previous background in **PR, communication, international business contexts, 
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 in Docker, SQL scripts, DataGrip workflow and reporting-oriented database practice |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
-| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, matplotlib, notebooks and reproducible data analysis practice |
+| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
 | [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Python, SQL/databases, Power BI/Fabric, Git, Linux, networking and software development |
 
 ### Supporting IT foundations
