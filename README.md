@@ -10,7 +10,7 @@ I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse
 
 My target direction is **Data/BI Analyst** with a strong interest in **Power BI, Microsoft Fabric, Azure fundamentals, relational data modelling, reporting workflows and process-oriented analytics**.
 
-My previous background in **PR, communication, documentation and project-oriented stakeholder work** helps me approach data topics not only technically, but also from a business and communication perspective.
+My previous background in **PR, communication, international business contexts, documentation and project-oriented stakeholder work** helps me connect technical data work with business needs, decision-making and clear communication.
 
 ---
 
@@ -23,6 +23,7 @@ My previous background in **PR, communication, documentation and project-oriente
 | Python Data Workflows | pandas, API data collection, CSV/JSON workflows, reproducible analysis |
 | Microsoft Data Stack | Power BI, Microsoft SQL Server, Microsoft Fabric perspective, Azure fundamentals |
 | Process Analysis | Turning operational processes into data models, reports and documented insights |
+| Business Communication | Translating technical findings into clear explanations for stakeholders |
 | IT Foundations | Linux basics, networking fundamentals, CCNA-oriented switching labs, secure remote access documentation |
 
 ---
@@ -62,7 +63,8 @@ I focus on small, understandable and documented Data/BI workflows:
 - validate data before interpretation
 - use readable SQL and Python
 - prefer reproducible steps over one-off manual work
-- explain results in a way that business stakeholders can understand
+- connect data work with business context and stakeholder needs
+- explain results in a way that business and technical audiences can understand
 - use AI-assisted tools responsibly as support, not as a substitute for understanding
 
 ---
@@ -93,6 +95,7 @@ I am currently strengthening this portfolio toward:
 - Microsoft Fabric and Azure fundamentals as the next platform layer
 - process-oriented analytics for real business questions
 - clear documentation for recruiters, internship providers and technical reviewers
+- stronger links between technical implementation, business interpretation and communication
 
 ---
 
