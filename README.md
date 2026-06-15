@@ -78,7 +78,7 @@ I focus on small, understandable and documented Data/BI workflows:
 | Networking | Cisco CCNA (200-301) | Exam scheduled 07/2026 |
 | Python | PCEP – Certified Entry-Level Python Programmer | Planned |
 | Python | PCAP – Certified Associate Python Programmer | Planned |
-| Linux | Linux Essentials | Training completed, exam scheduled 06/2026 |
+| Linux | Linux Essentials | Completed |
 | Agile / Scrum | EXIN Agile Scrum Master | Completed |
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
 | Communication | IHK certificate in PR- und Medienarbeit | Completed |
