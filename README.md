@@ -6,6 +6,12 @@
 
 **IHK retraining program in Data and Process Analysis · Data/BI Analyst track · SQL · Power BI · Python · Microsoft Fabric/Azure · Hamburg**
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Hamburg](https://img.shields.io/badge/Hamburg-Germany-blue)
+
 I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical Data/BI portfolio around **SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack**.
 
 My target direction is **Data/BI Analyst** with a strong interest in **Power BI, Microsoft Fabric, Azure fundamentals, relational data modelling, reporting workflows and process-oriented analytics**.
