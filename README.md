@@ -34,6 +34,7 @@ My previous background in **PR, communication, international business contexts, 
 
 | Repository | What it demonstrates |
 |---|---|
+| [music-production-data-lab](https://github.com/DataTideHH/music-production-data-lab) | Public portfolio project turning public-safe music production setup data into a documented data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and a Power BI overview screenshot |
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 in Docker, SQL scripts, DataGrip workflow and reporting-oriented database practice |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
@@ -107,3 +108,4 @@ I am currently strengthening this portfolio toward:
 - LinkedIn: [linkedin.com/in/datatidehh](https://www.linkedin.com/in/datatidehh/)
 - Kaggle: [kaggle.com/datatidehh](https://www.kaggle.com/datatidehh)
 - GitHub: [github.com/DataTideHH](https://github.com/DataTideHH)
+
