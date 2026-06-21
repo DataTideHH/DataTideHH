@@ -87,7 +87,7 @@ I focus on small, understandable and documented Data/BI workflows:
 | Office Productivity | Microsoft Office Specialist: Excel Associate – Microsoft 365 Apps (MO-210) | Planned |
 | Networking | Cisco CCNA (200-301) | Exam scheduled 09/2026 |
 | Python | PCEP – Certified Entry-Level Python Programmer | Exam planned 08/2026 |
-| Python | PCAP – Certified Associate Python Programmer | Exam planned 08/2026 |
+| Python | PCAP – Certified Associate Python Programmer | Planned |
 | Linux | Linux Essentials | Completed |
 | Agile / Scrum | EXIN Agile Scrum Master | Completed |
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
