@@ -38,7 +38,9 @@ My previous background in **PR, communication, international business contexts, 
 
 ### External Portfolio Notebooks
 
-- [Delivery Delay KPI Analysis](https://www.kaggle.com/code/datatidehh/delivery-delay-kpi-analysis) — Public Kaggle notebook using Python/pandas for delivery-delay EDA, business-rule validation, data-quality checks and BI-style KPI aggregation.
+| Notebook | Platform | Focus |
+|---|---|---|
+| [Delivery Delay KPI Analysis](https://www.kaggle.com/code/datatidehh/delivery-delay-kpi-analysis) | Kaggle | Public Python/pandas EDA with business-rule validation, data-quality checks and BI-style KPI aggregation |
 
 ### Data / BI / Microsoft-oriented projects
 
