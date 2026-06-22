@@ -40,7 +40,7 @@ My previous background in **PR, communication, international business contexts, 
 
 | Notebook | Platform | Focus |
 |---|---|---|
-| [Delivery Delay KPI Analysis](https://www.kaggle.com/code/datatidehh/delivery-delay-kpi-analysis) | Kaggle | Public Python/pandas EDA with business-rule validation, data-quality checks and BI-style KPI aggregation |
+| [Delivery Delay KPI Analysis](https://www.kaggle.com/code/datatidehh/delivery-delay-kpi-analysis) | Kaggle | Public Python/pandas EDA with business-rule validation, data-quality checks and BI-style KPI aggregation. Kaggle login may be required to view. |
 
 ### Data / BI / Microsoft-oriented projects
 
