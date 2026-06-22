@@ -52,6 +52,7 @@ My previous background in **PR, communication, international business contexts, 
 | [music-production-data-lab](https://github.com/DataTideHH/music-production-data-lab) | Public portfolio project turning public-safe music production setup data into a documented data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and a Power BI overview screenshot |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
 | [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Python, APIs/JSON, SQL/databases, Power BI/Fabric, Linux, networking and software development |
+| [network-operations-data-lab](https://github.com/DataTideHH/network-operations-data-lab) | Network operations data lab connecting Cisco/networking fundamentals with Python, SQL and BI-style reporting workflows |
 
 ### Supporting IT foundations
 
