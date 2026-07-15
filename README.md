@@ -59,7 +59,7 @@ My previous background in **PR, communication, international business contexts, 
 | Repository | What it demonstrates |
 |---|---|
 | [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab across macOS, Windows and iOS devices |
-| [cisco-switching-lab](https://github.com/DataTideHH/cisco-switching-lab) | Cisco switching fundamentals, VLANs, trunks, STP and CCNA-oriented lab documentation |
+| [cisco-switching-lab](https://github.com/DataTideHH/cisco-switching-lab) | Physical Catalyst 3560CX lab documenting secure management, IOS maintenance, NTP, validation and planned CCNA switching exercises. |
 | [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA and a small IPv4 subnet calculator |
 | [spring-boot-process-api-basics](https://github.com/DataTideHH/spring-boot-process-api-basics) | Small Java 21 / Spring Boot REST API for process-check data, layered backend structure, validation and basic persistence |
 | [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
