@@ -14,6 +14,8 @@
 
 I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical Data/BI portfolio around **SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack**.
 
+**Currently seeking a mandatory internship in Hamburg starting in September 2026**, ideally in Data/BI, process analysis, reporting or a Microsoft-oriented data environment.
+
 My target direction is **Data/BI Analyst** with a strong interest in **Power BI, Microsoft Fabric, Azure fundamentals, relational data modelling, reporting workflows and process-oriented analytics**.
 
 My previous background in **PR, communication, international business contexts, documentation and project-oriented stakeholder work** helps me connect technical data work with business needs, decision-making and clear communication.
@@ -47,7 +49,7 @@ My previous background in **PR, communication, international business contexts, 
 | Repository | What it demonstrates |
 |---|---|
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 in Docker, SQL scripts, DataGrip workflow and reporting-oriented database practice |
-| [network-operations-data-lab](https://github.com/DataTideHH/network-operations-data-lab) | Network operations data lab connecting Cisco/networking fundamentals with Python, SQL and BI-style reporting workflows |
+| [network-operations-data-lab](https://github.com/DataTideHH/network-operations-data-lab) | Infrastructure operations data lab connecting the verified Cisco baseline and a documented future Proxmox data-source roadmap with Python, SQL, data quality and BI-style reporting |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
 | [music-production-data-lab](https://github.com/DataTideHH/music-production-data-lab) | Public portfolio project turning public-safe music production setup data into a documented data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and a Power BI overview screenshot |
