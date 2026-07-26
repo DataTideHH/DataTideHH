@@ -62,7 +62,7 @@ My previous background in **PR, communication, international business contexts, 
 | [Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/) | Physical Catalyst 3560CX lab documenting secure management, IOS maintenance, NTP, verification and CCNA-oriented switching work |
 | [IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/) | One IPv4/CIDR specification implemented in Java 21, C++20 and Python 3.12 with shared contract cases and GitHub Actions |
 | [Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/) | Small Java 21 / Spring Boot REST API with layered structure, validation and basic persistence for process-check data |
-| [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab across macOS, Windows and iOS devices |
+| [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Public-safe Tailscale remote-access lab documenting native SSH over a private mesh VPN, least-privilege access modelling, temporary device trust, offboarding and CI-based safety checks |
 
 These repositories are intentionally focused and practical. They are not meant to simulate enterprise-scale systems, but to document a clear learning path, reproducible workflows and steadily growing professional competence.
 
