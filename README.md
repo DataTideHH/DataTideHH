@@ -101,11 +101,11 @@ I focus on small, understandable and documented Data/BI workflows:
 | Area | Credential / Focus | Status |
 |---|---|---|
 | Data & Process Analysis | Fachinformatiker für Daten- und Prozessanalyse (IHK) | In retraining, completion 06/2027 |
-| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 07/2026 |
+| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 29 July 2026 |
 | Data Fundamentals | Microsoft Azure Data Fundamentals (DP-900) | Exam planned 2027 |
 | Business Intelligence | Microsoft Power BI Data Analyst (PL-300) | Exam planned 2027 |
 | Office Productivity | Microsoft Office Specialist: Excel Associate – Microsoft 365 Apps (MO-210) | Exam planned 2027 |
-| Networking | Cisco CCNA (200-301) | Exam scheduled 09/2026 |
+| Networking | Cisco CCNA (200-301) | Exam scheduled 8 September 2026 |
 | Python | PCEP – Certified Entry-Level Python Programmer | Exam scheduled 08/2026 |
 | Python | PCAP – Certified Associate Python Programmer | Exam scheduled 08/2026 |
 | Linux | Linux Essentials | Completed |
