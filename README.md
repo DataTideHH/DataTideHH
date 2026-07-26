@@ -32,7 +32,7 @@ My previous background in **PR, communication, international business contexts, 
 | Microsoft Data Stack | Power BI, Microsoft SQL Server, Microsoft Fabric perspective, Azure fundamentals |
 | Process Analysis | Turning operational processes into data models, reports and documented insights |
 | Business Communication | Translating technical findings into clear explanations for stakeholders |
-| IT Foundations | Linux basics, networking fundamentals, CCNA-oriented switching labs, secure remote access documentation |
+| IT Foundations | Linux basics, Cisco/CCNA-oriented networking, Java and C++, tested command-line applications, APIs and CI |
 
 ---
 
@@ -46,27 +46,38 @@ My previous background in **PR, communication, international business contexts, 
 
 ### Data / BI / Microsoft-oriented projects
 
-| Repository | What it demonstrates |
+| Project | What it demonstrates |
 |---|---|
 | [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 in Docker, SQL scripts, DataGrip workflow and reporting-oriented database practice |
-| [network-operations-data-lab](https://github.com/DataTideHH/network-operations-data-lab) | Infrastructure operations data lab connecting the verified Cisco baseline and a documented future Proxmox data-source roadmap with Python, SQL, data quality and BI-style reporting |
+| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Infrastructure operations data lab connecting a verified Cisco baseline with Python, SQL, data quality and BI-style reporting |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
-| [music-production-data-lab](https://github.com/DataTideHH/music-production-data-lab) | Public portfolio project turning public-safe music production setup data into a documented data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and a Power BI overview screenshot |
+| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and Power BI overview |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
 | [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Python, APIs/JSON, SQL/databases, Power BI/Fabric, Linux, networking and software development |
 
 ### Supporting IT foundations
 
-| Repository | What it demonstrates |
+| Project | What it demonstrates |
 |---|---|
+| [Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/) | Physical Catalyst 3560CX lab documenting secure management, IOS maintenance, NTP, verification and CCNA-oriented switching work |
+| [IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/) | One IPv4/CIDR specification implemented in Java 21, C++20 and Python 3.12 with shared contract cases and GitHub Actions |
+| [Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/) | Small Java 21 / Spring Boot REST API with layered structure, validation and basic persistence for process-check data |
 | [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Documented Tailscale-based remote access lab across macOS, Windows and iOS devices |
-| [cisco-switching-lab](https://github.com/DataTideHH/cisco-switching-lab) | Physical Catalyst 3560CX lab documenting secure management, IOS maintenance, NTP, validation and planned CCNA switching exercises. |
-| [java-basics](https://github.com/DataTideHH/java-basics) | Java 21 learning project with IntelliJ IDEA and a small IPv4 subnet calculator |
-| [spring-boot-process-api-basics](https://github.com/DataTideHH/spring-boot-process-api-basics) | Small Java 21 / Spring Boot REST API for process-check data, layered backend structure, validation and basic persistence |
-| [cpp-basics](https://github.com/DataTideHH/cpp-basics) | C++20 learning project with CLion, CMake, Ninja and a small IPv4 subnet calculator |
 
 These repositories are intentionally focused and practical. They are not meant to simulate enterprise-scale systems, but to document a clear learning path, reproducible workflows and steadily growing professional competence.
+
+---
+
+## Technical Learning Progression
+
+Three supporting projects form a deliberate progression:
+
+1. **[Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/)** — physical infrastructure, Cisco CLI, secure administration and IPv4/CCNA context.
+2. **[IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/)** — one bounded domain problem implemented in three languages, with explicit validation, shared fachliche test cases and CI.
+3. **[Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/)** — progression from compact Java logic toward a layered HTTP API with validation and persistence.
+
+This is supporting breadth around the main Data/BI direction, not a claim of separate network-engineering or backend specialization.
 
 ---
 
@@ -81,7 +92,7 @@ I focus on small, understandable and documented Data/BI workflows:
 - use readable SQL and Python
 - prefer reproducible steps over one-off manual work
 - connect data work with business context and stakeholder needs
-- explain results in a way that business and technical audiences can understand
+- explain results for business and technical audiences
 - use AI-assisted tools responsibly as support, not as a substitute for understanding
 
 ---
