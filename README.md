@@ -14,7 +14,7 @@
 
 I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical Data/BI portfolio around **SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack**.
 
-**Currently seeking a mandatory internship in Hamburg starting in September 2026**, ideally in Data/BI, process analysis, reporting or a Microsoft-oriented data environment.
+**Currently seeking a mandatory internship in Hamburg beginning on 9 September 2026**, ideally in Data/BI, process analysis, reporting or a Microsoft-oriented data environment.
 
 My target direction is **Data/BI Analyst** with a strong interest in **Power BI, Microsoft Fabric, Azure fundamentals, relational data modelling, reporting workflows and process-oriented analytics**.
 
@@ -32,7 +32,7 @@ My previous background in **PR, communication, international business contexts, 
 | Microsoft Data Stack | Power BI, Microsoft SQL Server, Microsoft Fabric perspective, Azure fundamentals |
 | Process Analysis | Turning operational processes into data models, reports and documented insights |
 | Business Communication | Translating technical findings into clear explanations for stakeholders |
-| IT Foundations | Linux basics, Cisco/CCNA-oriented networking, Java and C++, tested command-line applications, APIs and CI |
+| IT Foundations | Linux fundamentals, Cisco/CCNA-oriented networking, Java and C++, API basics, automated testing and CI |
 
 ---
 
@@ -54,7 +54,6 @@ My previous background in **PR, communication, international business contexts, 
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
 | [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and Power BI overview |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
-| [open-learning-resources](https://github.com/DataTideHH/open-learning-resources) | Curated, license-aware learning resources for Python, APIs/JSON, SQL/databases, Power BI/Fabric, Linux, networking and software development |
 
 ### Supporting IT foundations
 
@@ -74,7 +73,7 @@ These repositories are intentionally focused and practical. They are not meant t
 Three supporting projects form a deliberate progression:
 
 1. **[Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/)** — physical infrastructure, Cisco CLI, secure administration and IPv4/CCNA context.
-2. **[IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/)** — one bounded domain problem implemented in three languages, with explicit validation, shared fachliche test cases and CI.
+2. **[IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/)** — one bounded domain problem implemented in three languages, with explicit validation, shared domain test cases and CI.
 3. **[Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/)** — progression from compact Java logic toward a layered HTTP API with validation and persistence.
 
 This is supporting breadth around the main Data/BI direction, not a claim of separate network-engineering or backend specialization.
