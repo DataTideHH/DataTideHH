@@ -6,11 +6,13 @@
 
 **IHK retraining program in Data and Process Analysis · Data/BI Analyst track · SQL · Power BI · Python · Microsoft Fabric/Azure · Hamburg**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-blue)
-![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-blue)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Hamburg](https://img.shields.io/badge/Hamburg-Germany-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-0A2F4F)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-0B92B6)
+![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-0A2F4F)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-0B92B6)
+![Hamburg](https://img.shields.io/badge/Hamburg-Germany-0A2F4F)
+
+[Portfolio overview](https://datatidehh.github.io/DataTideHH/) · [Personal website](https://datatidehh.de/) · [LinkedIn](https://www.linkedin.com/in/datatidehh/)
 
 I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical Data/BI portfolio around **SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack**.
 
@@ -52,7 +54,7 @@ My previous background in **PR, communication, international business contexts, 
 | [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Infrastructure operations data lab connecting a verified Cisco baseline with Python, SQL, data quality and BI-style reporting |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
-| [Flask Country Data API](https://github.com/DataTideHH/flask-country-data-api) | Reproducible World Bank ingestion workflow with source validation, constrained SQLite persistence, SQL data-quality checks, versioned Flask endpoints, OpenAPI documentation and cross-platform CI |
+| [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Reproducible World Bank ingestion workflow with source validation, constrained SQLite persistence, SQL data-quality checks, versioned Flask endpoints, OpenAPI documentation and cross-platform CI |
 | [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe relational data model with a reproducible Python/SQLite workflow, SQL reporting views, automated data-quality checks, and a documented Power BI semantic model with version-controlled DAX measures |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
 
@@ -133,6 +135,7 @@ I am currently strengthening this portfolio toward:
 
 ## Contact
 
+- Portfolio overview: [datatidehh.github.io/DataTideHH](https://datatidehh.github.io/DataTideHH/)
 - Website: [datatidehh.de](https://datatidehh.de/)
 - LinkedIn: [linkedin.com/in/datatidehh](https://www.linkedin.com/in/datatidehh/)
 - Kaggle: [kaggle.com/datatidehh](https://www.kaggle.com/datatidehh)

@@ -1,0 +1,15 @@
+title: Tobias Wietelmann | DataTideHH
+description: Data/BI portfolio for IHK retraining in Data and Process Analysis with SQL, Power BI, Python and Microsoft-oriented data work.
+theme: jekyll-theme-cayman
+show_downloads: false
+repository: DataTideHH/DataTideHH
+url: https://datatidehh.github.io
+baseurl: /DataTideHH
+lang: en
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
