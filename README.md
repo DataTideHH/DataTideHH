@@ -6,6 +6,8 @@
 
 **IHK retraining program in Data and Process Analysis · Data/BI Analyst track · SQL · Power BI · Python · Microsoft Fabric/Azure · Hamburg**
 
+[![GitHub Pages](https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-0A2F4F)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-0B92B6)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-0A2F4F)
