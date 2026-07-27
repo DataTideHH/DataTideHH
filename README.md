@@ -52,7 +52,7 @@ My previous background in **PR, communication, international business contexts, 
 | [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Infrastructure operations data lab connecting a verified Cisco baseline with Python, SQL, data quality and BI-style reporting |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
-| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe data model, SQLite schema, SQL queries, Python build workflow, data-quality checks and Power BI overview |
+| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe analytics product transforming semi-structured workflows into validated relational data, generated SQL reporting outputs and documented Power BI evidence |
 | [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
 
 ### Supporting IT foundations
