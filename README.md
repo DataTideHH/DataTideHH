@@ -6,15 +6,28 @@
 
 **IHK retraining program in Data and Process Analysis · Data/BI Analyst track · SQL · Power BI · Python · Microsoft Fabric/Azure · Hamburg**
 
-[![GitHub Pages](https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment)
+<p align="center">
+  <a href="https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GitHub Pages deployment status">
+  </a>
+  <a href="https://www.linkedin.com/in/datatidehh/">
+    <img src="https://img.shields.io/badge/Mandatory%20Internship-Hamburg%20%C2%B7%2009%2F2026-0B92B6" alt="Seeking a mandatory internship in Hamburg from September 2026">
+  </a>
+</p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-0A2F4F)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-0B92B6)
-![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-0A2F4F)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-0B92B6)
-![Hamburg](https://img.shields.io/badge/Hamburg-Germany-0A2F4F)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-0A2F4F" alt="Power BI: Data Visualization">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-0B92B6" alt="Microsoft Fabric: Data Platform">
+  <img src="https://img.shields.io/badge/SQL-Data%20Modelling-0A2F4F" alt="SQL: Data Modelling">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-0B92B6" alt="Python: Data Analysis">
+  <img src="https://img.shields.io/badge/Hamburg-Germany-0A2F4F" alt="Hamburg, Germany">
+</p>
 
-[Portfolio overview](https://datatidehh.github.io/DataTideHH/) · [Personal website](https://datatidehh.de/) · [LinkedIn](https://www.linkedin.com/in/datatidehh/)
+<p align="center">
+  <a href="https://datatidehh.github.io/DataTideHH/">Portfolio overview</a> ·
+  <a href="https://datatidehh.de/">Personal website</a> ·
+  <a href="https://www.linkedin.com/in/datatidehh/">LinkedIn</a>
+</p>
 
 I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical Data/BI portfolio around **SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack**.
 
