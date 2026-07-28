@@ -45,7 +45,7 @@ My previous background in **PR, communication, international business contexts, 
 |---|---|
 | Data & BI | Power BI, dashboards, KPIs, reporting logic, business questions |
 | SQL & Data Modelling | Relational databases, clean table structures, joins, aggregation, data quality |
-| Python Data Workflows | pandas, API data collection, CSV/JSON workflows, reproducible analysis |
+| Python Data Workflows | pandas, APIs, CSV/JSON, data quality, KPI reconciliation and reproducible reporting |
 | Microsoft Data Stack | Power BI, Microsoft SQL Server, Microsoft Fabric perspective, Azure fundamentals |
 | Process Analysis | Turning operational processes into data models, reports and documented insights |
 | Business Communication | Translating technical findings into clear explanations for stakeholders |
@@ -71,7 +71,7 @@ My previous background in **PR, communication, international business contexts, 
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
 | [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Reproducible World Bank ingestion workflow with source validation, constrained SQLite persistence, SQL data-quality checks, versioned Flask endpoints, OpenAPI documentation and cross-platform CI |
 | [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe relational data model with a reproducible Python/SQLite workflow, SQL reporting views, automated data-quality checks, and a documented Power BI semantic model with version-controlled DAX measures |
-| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Python 3.12 data environment for pandas, NumPy, Jupyter, API/JSON basics, OAuth2 notes and reproducible data workflows |
+| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Tested Python 3.12 Data/BI workflow with CSV validation, auditable rejections, KPI reconciliation, reporting charts, clean notebooks and Ubuntu/Windows CI |
 
 ### Supporting IT foundations
 
