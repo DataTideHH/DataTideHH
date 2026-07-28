@@ -65,7 +65,7 @@ My previous background in **PR, communication, international business contexts, 
 
 | Project | What it demonstrates |
 |---|---|
-| [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Microsoft SQL Server 2022 in Docker, SQL scripts, DataGrip workflow and reporting-oriented database practice |
+| [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server 2022 analytics lab with PowerShell provisioning, enforced relational integrity, a verified star schema and end-to-end GitHub Actions |
 | [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Infrastructure operations data lab connecting a verified Cisco baseline with Python, SQL, data quality and BI-style reporting |
 | [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
 | [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
