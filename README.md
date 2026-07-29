@@ -68,7 +68,7 @@ My previous background in **PR, communication, international business contexts, 
 | [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested service-operations data contract and quality baseline for a planned Microsoft Fabric Lakehouse and Power BI implementation |
 | [SQL Server Docker Basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server analytics lab with relational integrity, star schema and end-to-end CI |
 | [Python Data Basics](https://github.com/DataTideHH/python-data-basics) | Tested Python workflow for CSV validation, auditable rejections, KPI reconciliation and reporting |
-| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Cisco operations data translated into Python, SQL and BI-style reporting |
+| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Operations analytics over a verified Cisco network baseline using Python, SQL and BI-style reporting |
 | [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Relational analytics model with SQL reporting views and documented Power BI measures |
 | [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Validated World Bank ingestion with SQLite persistence and versioned Flask endpoints |
 | [Hamburg District Data Basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg data prepared for exploratory analysis and Power BI |
