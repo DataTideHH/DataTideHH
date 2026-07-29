@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-0A2F4F" alt="Power BI: Data Visualization">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-0B2E4F" alt="Power BI: Data Visualization">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-0B92B6" alt="Microsoft Fabric: Data Platform">
-  <img src="https://img.shields.io/badge/SQL-Data%20Modelling-0A2F4F" alt="SQL: Data Modelling">
+  <img src="https://img.shields.io/badge/SQL-Data%20Modelling-0B2E4F" alt="SQL: Data Modelling">
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-0B92B6" alt="Python: Data Analysis">
-  <img src="https://img.shields.io/badge/Hamburg-Germany-0A2F4F" alt="Hamburg, Germany">
+  <img src="https://img.shields.io/badge/Hamburg-Germany-0B2E4F" alt="Hamburg, Germany">
 </p>
 
 <p align="center">
@@ -65,13 +65,13 @@ My previous background in **PR, communication, international business contexts, 
 
 | Project | What it demonstrates |
 |---|---|
-| [sql-server-docker-basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server 2022 analytics lab with PowerShell provisioning, enforced relational integrity, a verified star schema and end-to-end GitHub Actions |
-| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Infrastructure operations data lab connecting a verified Cisco baseline with Python, SQL, data quality and BI-style reporting |
-| [hamburg-district-data-basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg district data, exploratory analysis, data documentation and Power BI dashboard preparation |
-| [open-meteo-germany-weather-ranking](https://github.com/DataTideHH/open-meteo-germany-weather-ranking) | Python/API workflow using Open-Meteo data, JSON processing, scoring logic, CSV output and tests |
-| [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Reproducible World Bank ingestion workflow with source validation, constrained SQLite persistence, SQL data-quality checks, versioned Flask endpoints, OpenAPI documentation and cross-platform CI |
-| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe relational data model with a reproducible Python/SQLite workflow, SQL reporting views, automated data-quality checks, and a documented Power BI semantic model with version-controlled DAX measures |
-| [python-data-basics](https://github.com/DataTideHH/python-data-basics) | Tested Python 3.12 Data/BI workflow with CSV validation, auditable rejections, KPI reconciliation, reporting charts, clean notebooks and Ubuntu/Windows CI |
+| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested service-operations data contract and quality baseline for a planned Microsoft Fabric Lakehouse and Power BI implementation |
+| [SQL Server Docker Basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server analytics lab with relational integrity, star schema and end-to-end CI |
+| [Python Data Basics](https://github.com/DataTideHH/python-data-basics) | Tested Python workflow for CSV validation, auditable rejections, KPI reconciliation and reporting |
+| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Cisco operations data translated into Python, SQL and BI-style reporting |
+| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Relational analytics model with SQL reporting views and documented Power BI measures |
+| [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Validated World Bank ingestion with SQLite persistence and versioned Flask endpoints |
+| [Hamburg District Data Basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Public Hamburg data prepared for exploratory analysis and Power BI |
 
 ### Supporting IT foundations
 
