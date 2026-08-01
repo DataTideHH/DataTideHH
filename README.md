@@ -66,6 +66,7 @@ My previous background in **PR, communication, international business contexts, 
 | Project | What it demonstrates |
 |---|---|
 | [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested local service-operations analytics pipeline with Bronze/Silver/Gold Parquet layers, DuckDB SQL marts, metric contracts and SLA breach analysis, prepared for Microsoft Fabric and Power BI |
+| [Excel to SQL Data Workflows](https://datatidehh.github.io/excel-to-sql-data-workflows/) | Cross-tool comparison of equivalent analytical intent across Excel, Power Query M, SQL Server T-SQL and Power BI DAX, backed by deterministic data, a generated workbook, 19 tests and Windows/Linux CI |
 | [SQL Server Docker Basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server analytics lab with relational integrity, star schema and end-to-end CI |
 | [Python Data Basics](https://github.com/DataTideHH/python-data-basics) | Tested Python workflow for CSV validation, auditable rejections, KPI reconciliation and reporting |
 | [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Public-safe operations analytics over a sanitized Cisco baseline using Python, SQLite, SQL validation views, automated tests and BI-style reporting |
