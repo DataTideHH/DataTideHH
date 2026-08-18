@@ -130,7 +130,7 @@ I focus on small, understandable and documented Data/BI workflows:
 | Linux | Linux Essentials | Completed |
 | Agile / Scrum | EXIN Agile Scrum Master | Completed |
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
-| Instructor Qualification | AEVO / AdA – Ausbildereignungsprüfung (IHK / Hamburg Chamber of Commerce) | Exam planned 01/2027 |
+| Instructor Qualification | AEVO / AdA – Ausbildereignungsprüfung (IHK / Hamburg Chamber of Commerce) | Exam planned 07/2027 |
 | Communication | IHK certificate in PR- und Medienarbeit | Completed |
 
 ---
