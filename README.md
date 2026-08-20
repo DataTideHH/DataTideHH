@@ -47,7 +47,7 @@ My previous background in **PR, communication, international business contexts, 
 | SQL & Data Modelling | Relational databases, clean table structures, joins, aggregation, data quality |
 | Python Data Workflows | pandas, APIs, CSV/JSON, data quality, KPI reconciliation and reproducible reporting |
 | Microsoft Data Stack | Power BI, Microsoft SQL Server, Microsoft Fabric perspective, Azure fundamentals |
-| Process Analysis | Turning operational processes into data models, reports and documented insights |
+| Process Analysis & Mining | Event logs, process KPIs, process discovery, bottleneck analysis and process improvement |
 | Business Communication | Translating technical findings into clear explanations for stakeholders |
 | IT Foundations | Linux fundamentals, Cisco/CCNA-oriented networking, Java and C++, API basics, automated testing and CI |
 
