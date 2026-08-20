@@ -101,17 +101,16 @@ This is supporting breadth around the main Data/BI direction, not a claim of sep
 
 ## How I Work
 
-I focus on small, understandable and documented Data/BI workflows:
+I approach data work from the business or process problem first:
 
-- define the business or process question first
-- document data sources and assumptions
-- keep data models explainable
-- validate data before interpretation
-- use readable SQL and Python
-- prefer reproducible steps over one-off manual work
-- connect data work with business context and stakeholder needs
-- explain results for business and technical audiences
-- use AI-assisted tools responsibly as support, not as a substitute for understanding
+- understand the business process and decision context
+- define what should be measured
+- identify, collect and validate the required data
+- model and transform data with SQL and Python
+- build reproducible analytical workflows
+- translate results into KPIs, reports and decision-oriented insights
+- communicate assumptions, limitations and recommendations clearly
+- use AI-assisted tools responsibly while retaining ownership of the result
 
 ---
 
