@@ -58,6 +58,10 @@ This supporting breadth complements the main Data/BI direction. It is not presen
 - connect technical implementation with stakeholder needs
 - use AI-assisted tools as support, not as a substitute for understanding
 
+## Selected writing
+
+- [**The Dashboard Wasn't the Hard Part: Why KPI Definitions Matter**](https://medium.com/@tobiaswietelmann/the-dashboard-wasnt-the-hard-part-why-kpi-definitions-matter-c762cebae500) — a project-based article on KPI semantics, denominator choices, aggregation, data quality and validation, based on [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics).
+
 ## Portfolio links
 
 - [GitHub profile and complete repository overview](https://github.com/DataTideHH)
