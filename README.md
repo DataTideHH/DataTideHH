@@ -87,6 +87,12 @@ These repositories are intentionally focused and practical. They are not meant t
 
 ---
 
+## Selected Writing
+
+- [**The Dashboard Wasn't the Hard Part: Why KPI Definitions Matter**](https://medium.com/@tobiaswietelmann/the-dashboard-wasnt-the-hard-part-why-kpi-definitions-matter-c762cebae500) — a project-based article on KPI semantics, denominator choices, aggregation, data quality and validation, based on [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics).
+
+---
+
 ## Technical Learning Progression
 
 Three supporting projects form a deliberate progression:
