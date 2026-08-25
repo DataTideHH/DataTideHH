@@ -90,6 +90,7 @@ These repositories are intentionally focused and practical. They are not meant t
 ## Selected Writing
 
 - [**The Dashboard Wasn't the Hard Part: Why KPI Definitions Matter**](https://medium.com/@tobiaswietelmann/the-dashboard-wasnt-the-hard-part-why-kpi-definitions-matter-c762cebae500) — a project-based article on KPI semantics, denominator choices, aggregation, data quality and validation, based on [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics).
+- [**Hiring Is a Prediction Problem: What Credential Inflation Changes**](https://medium.com/@tobiaswietelmann/hiring-is-a-prediction-problem-what-credential-inflation-changes-c4887ae2370f) — an essay on hiring as a prediction problem and why credential inflation can reduce differentiation while gatekeeping and informational value remain.
 
 ---
 
