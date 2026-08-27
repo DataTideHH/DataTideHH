@@ -27,7 +27,8 @@ My previous background in PR, communication, international business contexts, do
 
 | Project | Evidence |
 |---|---|
-| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested local service-operations analytics pipeline with Bronze/Silver/Gold Parquet layers, DuckDB SQL marts, metric contracts and SLA breach analysis, prepared for Microsoft Fabric and Power BI |
+| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested local pipeline on deterministic synthetic service-operations data: Bronze/Silver/Gold Parquet layers, DuckDB SQL marts, metric contracts and SLA breach analysis. Microsoft Fabric and Power BI mapping planned, not implemented |
+| [Service Operations AI Orchestration](https://github.com/DataTideHH/service-operations-ai-orchestration) | Java 21 / Spring Boot / Spring AI companion that exposes the pinned analytics snapshot through two read-only tools, keeping KPI definitions and interpretation boundaries outside the model. Deterministic checks implemented, live-provider evaluation prepared but not yet executed |
 | [Excel to SQL Data Workflows](https://datatidehh.github.io/excel-to-sql-data-workflows/) | Equivalent analytical intent across Excel, Power Query M, SQL Server T-SQL and Power BI DAX, backed by deterministic data, a generated workbook, 19 tests and Windows/Linux CI |
 | [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Reproducible World Bank ingestion, constrained SQLite persistence, SQL data-quality checks, OpenAPI and cross-platform CI |
 | [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Sanitized infrastructure records connected to Python, SQL, data quality and BI-style reporting |
