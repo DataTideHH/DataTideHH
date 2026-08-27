@@ -132,8 +132,8 @@ I approach data work from the business or process problem first:
 | Business Intelligence | Microsoft Power BI Data Analyst (PL-300) | Exam planned 2027 |
 | Office Productivity | Microsoft Office Specialist: Excel Associate – Microsoft 365 Apps (MO-210) | Exam planned 2027 |
 | Networking | Cisco CCNA (200-301) | Exam scheduled 20 October 2026 |
-| Python | PCEP – Certified Entry-Level Python Programmer | Exam scheduled 08/2026 |
-| Python | PCAP – Certified Associate Python Programmer | Exam scheduled 09/2026 |
+| Python | PCEP – Certified Entry-Level Python Programmer | Exam planned 09/2026 |
+| Python | PCAP – Certified Associate Python Programmer | Exam planned 10/2026 |
 | Linux | Linux Essentials | Completed |
 | Agile / Scrum | EXIN Agile Scrum Master | Completed |
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
