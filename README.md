@@ -65,7 +65,8 @@ My previous background in **PR, communication, international business contexts, 
 
 | Project | What it demonstrates |
 |---|---|
-| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested local service-operations analytics pipeline with Bronze/Silver/Gold Parquet layers, DuckDB SQL marts, metric contracts and SLA breach analysis, prepared for Microsoft Fabric and Power BI |
+| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested local pipeline on deterministic synthetic service-operations data: Bronze/Silver/Gold Parquet layers, DuckDB SQL marts, metric contracts and SLA breach analysis. Microsoft Fabric and Power BI mapping planned, not implemented |
+| [Service Operations AI Orchestration](https://github.com/DataTideHH/service-operations-ai-orchestration) | Java 21 / Spring Boot / Spring AI companion that exposes the pinned analytics snapshot through two read-only tools, keeping KPI definitions and interpretation boundaries outside the model. Deterministic checks implemented, live-provider evaluation prepared but not yet executed |
 | [Excel to SQL Data Workflows](https://datatidehh.github.io/excel-to-sql-data-workflows/) | Cross-tool comparison of equivalent analytical intent across Excel, Power Query M, SQL Server T-SQL and Power BI DAX, backed by deterministic data, a generated workbook, 19 tests and Windows/Linux CI |
 | [SQL Server Docker Basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server analytics lab with relational integrity, star schema and end-to-end CI |
 | [Python Data Basics](https://github.com/DataTideHH/python-data-basics) | Tested Python workflow for CSV validation, auditable rejections, KPI reconciliation and reporting |
