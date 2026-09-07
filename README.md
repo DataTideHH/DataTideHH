@@ -127,7 +127,7 @@ I approach data work from the business or process problem first:
 | Area | Credential / Focus | Status |
 |---|---|---|
 | Data & Process Analysis | Fachinformatiker für Daten- und Prozessanalyse (IHK) | In retraining, completion 06/2027 |
-| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 2 September 2026 |
+| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 11 September 2026 |
 | Data Fundamentals | Microsoft Azure Data Fundamentals (DP-900) | Exam scheduled 12/2026 |
 | Business Intelligence | Microsoft Power BI Data Analyst (PL-300) | Exam planned 2027 |
 | Office Productivity | Microsoft Office Specialist: Excel Associate – Microsoft 365 Apps (MO-210) | Exam planned 2027 |
