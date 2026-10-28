@@ -4,14 +4,14 @@
 
 # Tobias Wietelmann | DataTideHH
 
-**IHK retraining program in Data and Process Analysis · Data/BI Analyst track · SQL · Power BI · Python · Microsoft Fabric/Azure · Hamburg**
+**Data & Process Analytics → Analytics Engineering · Agentic AI & Automation (focus) · SQL · Python · Power BI · Microsoft Fabric · Hamburg**
 
 <p align="center">
   <a href="https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment">
     <img src="https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GitHub Pages deployment status">
   </a>
   <a href="https://www.linkedin.com/in/datatidehh/">
-    <img src="https://img.shields.io/badge/Mandatory%20Internship-Hamburg%20%C2%B7%2009%2F2026-0B92B6" alt="Seeking a mandatory internship in Hamburg from September 2026">
+    <img src="https://img.shields.io/badge/Seeking%20Internship-Hamburg-0B92B6" alt="Seeking a mandatory internship in Hamburg">
   </a>
 </p>
 
@@ -29,13 +29,13 @@
   <a href="https://www.linkedin.com/in/datatidehh/">LinkedIn</a>
 </p>
 
-I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical Data/BI portfolio around **SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack**.
+I am retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, planned completion 12/2027)**. My direction is **Data & Process Analytics → Analytics Engineering → Microsoft Data Platform**, supported by practical work rather than job-title claims.
 
-**Currently seeking a mandatory internship in Hamburg beginning on 9 September 2026**, ideally in Data/BI, process analysis, reporting or a Microsoft-oriented data environment.
+I work with **SQL, Python, data modelling, APIs, data quality and reproducible analytical workflows**. I am developing my skills in **Power BI and Microsoft Fabric**, while exploring **agentic AI and process automation** through bounded, testable implementations.
 
-My target direction is **Data/BI Analyst** with a strong interest in **Power BI, Microsoft Fabric, Azure fundamentals, relational data modelling, reporting workflows and process-oriented analytics**.
+I am **seeking a mandatory internship in Hamburg**, ideally in analytics, BI, analytics engineering or a Microsoft-oriented data environment, with a perspective for continued employment.
 
-My previous background in **PR, communication, international business contexts, documentation and project-oriented stakeholder work** helps me connect technical data work with business needs, decision-making and clear communication.
+Before retraining, I worked in **B2B PR, media, communication and project-oriented roles**, including international business contexts. That experience helps me connect technical work with stakeholder needs, documentation and clear communication.
 
 ---
 
@@ -43,11 +43,12 @@ My previous background in **PR, communication, international business contexts, 
 
 | Area | Practical focus |
 |---|---|
-| Data & BI | Power BI, dashboards, KPIs, reporting logic, business questions |
-| SQL & Data Modelling | Relational databases, clean table structures, joins, aggregation, data quality |
+| Data & Process Analytics | KPI definitions, Power BI reporting, process KPIs and business questions |
+| Analytics Engineering | SQL transformations, relational modelling, data contracts, repeatable pipelines and validation |
 | Python Data Workflows | pandas, APIs, CSV/JSON, data quality, KPI reconciliation and reproducible reporting |
-| Microsoft Data Stack | Power BI, Microsoft SQL Server, Microsoft Fabric perspective, Azure fundamentals |
-| Process Analysis & Mining | Event logs, process KPIs, process discovery, bottleneck analysis and process improvement |
+| Microsoft Data Platform | Power BI, SQL Server, Fabric concepts and Azure fundamentals; expanding hands-on work |
+| Process Analysis | Event data, process KPIs, bottlenecks, data quality and measurable improvements |
+| Agentic AI & Automation | Constrained tool-based workflows, explicit data contracts, validation and human review; current learning focus |
 | Business Communication | Translating technical findings into clear explanations for stakeholders |
 | IT Foundations | Linux fundamentals, Cisco/CCNA-oriented networking, Java and C++, API basics, automated testing and CI |
 
@@ -103,7 +104,7 @@ Three supporting projects form a deliberate progression:
 2. **[IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/)** — one bounded domain problem implemented in three languages, with explicit validation, shared domain test cases and CI.
 3. **[Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/)** — progression from compact Java logic toward a layered HTTP API with validation and persistence.
 
-This is supporting breadth around the main Data/BI direction, not a claim of separate network-engineering or backend specialization.
+This is supporting breadth around my analytics engineering and data-platform direction, not a claim of separate network-engineering or backend specialization.
 
 ---
 
@@ -118,7 +119,9 @@ I approach data work from the business or process problem first:
 - build reproducible analytical workflows
 - translate results into KPIs, reports and decision-oriented insights
 - communicate assumptions, limitations and recommendations clearly
-- use AI-assisted tools responsibly while retaining ownership of the result
+- use AI-assisted tools responsibly, with explicit checks and ownership of the result
+
+**AI-assisted implementation. Human-owned engineering.** AI can accelerate implementation; requirements, architecture, tests and technical decisions remain my responsibility.
 
 ---
 
@@ -126,14 +129,14 @@ I approach data work from the business or process problem first:
 
 | Area | Credential / Focus | Status |
 |---|---|---|
-| Data & Process Analysis | Fachinformatiker für Daten- und Prozessanalyse (IHK) | In retraining, completion 06/2027 |
-| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 11 September 2026 |
-| Data Fundamentals | Microsoft Azure Data Fundamentals (DP-900) | Exam scheduled 12/2026 |
+| Data & Process Analysis | Fachinformatiker für Daten- und Prozessanalyse (IHK) | In retraining, planned completion 12/2027 |
+| Cloud Fundamentals | Microsoft Azure Fundamentals (AZ-900) | Exam scheduled 30 December 2026 |
+| Data Fundamentals | Microsoft Azure Data Fundamentals (DP-900) | Exam planned 02/2027 |
 | Business Intelligence | Microsoft Power BI Data Analyst (PL-300) | Exam planned 2027 |
 | Office Productivity | Microsoft Office Specialist: Excel Associate – Microsoft 365 Apps (MO-210) | Exam planned 2027 |
-| Networking | Cisco CCNA (200-301) | Exam scheduled 20 October 2026 |
-| Python | PCEP – Certified Entry-Level Python Programmer | Exam planned 09/2026 |
-| Python | PCAP – Certified Associate Python Programmer | Exam planned 10/2026 |
+| Networking | Cisco CCNA (200-301) | Exam scheduled 22 December 2026 |
+| Python | PCEP – Certified Entry-Level Python Programmer | Exam planned 12/2026 |
+| Python | PCAP – Certified Associate Python Programmer | Exam planned 01/2027 |
 | Linux | Linux Essentials | Completed |
 | Agile / Scrum | EXIN Agile Scrum Master | Completed |
 | Product Ownership | EXIN Agile Product Owner Bridge | Completed |
@@ -144,15 +147,14 @@ I approach data work from the business or process problem first:
 
 ## Current Portfolio Direction
 
-I am currently strengthening this portfolio toward:
+My next priorities are:
 
-- SQL-based data modelling and reporting queries
-- Power BI dashboards with clear KPIs and clean data models
-- Python-based data collection, cleaning and exploratory analysis
-- Microsoft Fabric and Azure fundamentals as the next platform layer
-- process-oriented analytics for real business questions
-- clear documentation for recruiters, internship providers and technical reviewers
-- stronger links between technical implementation, business interpretation and communication
+- solid SQL models, transformations, data contracts and automated quality checks
+- a documented Power BI semantic model and report layer with unambiguous KPIs
+- reproducible Python pipelines, APIs and process-oriented analytics
+- practical Microsoft Fabric and Azure experience built on validated fundamentals
+- small, explainable agentic AI and automation workflows that keep business logic outside the model
+- documentation that makes implementation and limitations clear to employers and technical reviewers
 
 ---
 
