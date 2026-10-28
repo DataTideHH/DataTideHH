@@ -1,26 +1,29 @@
 ---
 layout: default
 title: Tobias Wietelmann | DataTideHH
-description: Data/BI portfolio for IHK retraining in Data and Process Analysis with SQL, Power BI, Python and Microsoft-oriented data work.
+description: Data & Process Analytics and Analytics Engineering portfolio with SQL, Python, Power BI, Microsoft Fabric and responsible AI-assisted engineering.
 ---
 
 # Tobias Wietelmann | DataTideHH
 
-I am currently retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion 06/2027)** and building a practical portfolio around SQL, Power BI, Python, data quality, process analysis and the Microsoft Data Stack.
+I am retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, planned completion 12/2027)**. My direction is **Data & Process Analytics → Analytics Engineering → Microsoft Data Platform**.
 
-I am seeking a mandatory internship in Hamburg beginning on **9 September 2026**, ideally in Data/BI, process analysis, reporting or a Microsoft-oriented data environment.
+I build practical projects with **SQL, Python, data modelling, APIs, data quality and repeatable analytical workflows**. Power BI and Microsoft Fabric are part of my developing Microsoft data-platform focus. I am also exploring **agentic AI and process automation** through small, testable implementations with explicit boundaries.
 
-My previous background in PR, communication, international business contexts, documentation and project-oriented stakeholder work helps me connect technical data work with business needs and clear decision support.
+I am **seeking a mandatory internship in Hamburg**, preferably in data analytics, BI, analytics engineering or a Microsoft-oriented environment, with a perspective for continued employment.
+
+My background in **B2B PR, media, communication and project work**, including international contexts, helps me bridge technical details and stakeholder needs.
 
 ## Professional direction
 
 | Area | Practical focus |
 |---|---|
-| Data & BI | KPIs, reporting logic, dashboards and business questions |
-| SQL & data modelling | Relational structures, joins, aggregation and data quality |
+| Data & Process Analytics | KPI definitions, reporting logic, dashboards and business questions |
+| Analytics Engineering | SQL models, transformation logic, data contracts and repeatable validation |
 | Python data workflows | API collection, CSV/JSON processing, pandas and reproducible analysis |
-| Microsoft Data Stack | Power BI, SQL Server, Fabric perspective and Azure fundamentals |
+| Microsoft Data Platform | Power BI, SQL Server, Fabric concepts and Azure fundamentals; hands-on skills in progress |
 | Process analysis | Translating operational workflows into data models and measurable evidence |
+| Agentic AI & automation | Bounded tool-based workflows, explicit checks and human-owned decisions |
 | Communication | Explaining technical findings to business and technical stakeholders |
 
 ## Selected Data / BI projects
@@ -46,7 +49,7 @@ My previous background in PR, communication, international business contexts, do
 | [Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/) | Small layered Java REST API with validation and persistence |
 | [Remote Access Network Lab](https://github.com/DataTideHH/remote-access-network-lab) | Public-safe Tailscale and SSH access model with trust and offboarding documentation |
 
-This supporting breadth complements the main Data/BI direction. It is not presented as a claim of separate network-engineering or backend specialization.
+This supporting breadth complements the main analytics engineering and data-platform direction. It is not a claim of separate network-engineering or backend specialization.
 
 ## How I work
 
@@ -57,7 +60,9 @@ This supporting breadth complements the main Data/BI direction. It is not presen
 - prefer reproducible workflows over one-off manual steps
 - use readable SQL and Python
 - connect technical implementation with stakeholder needs
-- use AI-assisted tools as support, not as a substitute for understanding
+- use AI-assisted tools as support, with human review and tests rather than unchecked output
+
+**AI-assisted implementation. Human-owned engineering.** I remain responsible for requirements, architecture, validation and results.
 
 ## Selected writing
 
