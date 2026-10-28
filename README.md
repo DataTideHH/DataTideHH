@@ -119,9 +119,9 @@ I approach data work from the business or process problem first:
 - build reproducible analytical workflows
 - translate results into KPIs, reports and decision-oriented insights
 - communicate assumptions, limitations and recommendations clearly
-- use AI-assisted tools responsibly, with explicit checks and ownership of the result
+- use AI-assisted tools where they add value, while independently reviewing, testing and validating their output
 
-**AI-assisted implementation. Human-owned engineering.** AI can accelerate implementation; requirements, architecture, tests and technical decisions remain my responsibility.
+I use AI to support development, not to replace technical understanding. I remain responsible for the requirements, design decisions, correctness and maintainability of my work.
 
 ---
 
