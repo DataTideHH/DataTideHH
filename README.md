@@ -43,14 +43,13 @@ Before retraining, I worked in **B2B PR, media, communication and project-orient
 
 | Area | Practical focus |
 |---|---|
-| Data & Process Analytics | KPI definitions, Power BI reporting, process KPIs and business questions |
-| Analytics Engineering | SQL transformations, relational modelling, data contracts, repeatable pipelines and validation |
-| Python Data Workflows | pandas, APIs, CSV/JSON, data quality, KPI reconciliation and reproducible reporting |
-| Microsoft Data Platform | Power BI, SQL Server, Fabric concepts and Azure fundamentals; expanding hands-on work |
-| Process Analysis | Event data, process KPIs, bottlenecks, data quality and measurable improvements |
-| Agentic AI & Automation | Constrained tool-based workflows, explicit data contracts, validation and human review; current learning focus |
-| Business Communication | Translating technical findings into clear explanations for stakeholders |
-| IT Foundations | Linux fundamentals, Cisco/CCNA-oriented networking, Java and C++, API basics, automated testing and CI |
+| Data & Process Analytics | Business KPIs, process metrics, bottleneck analysis and data-driven decision support |
+| Analytics Engineering | SQL transformations, relational data modelling, data contracts and automated quality checks |
+| Python Data Workflows | pandas, APIs, data validation and reproducible analytical pipelines |
+| Microsoft Data Platform | Power BI, SQL Server, semantic modelling and developing Microsoft Fabric/Azure skills |
+| Agentic AI & Automation | Governed AI tools, deterministic validation and clearly defined boundaries for model-generated output |
+| Business Communication | Connecting technical analysis with business requirements, stakeholders and decision-making |
+| IT Foundations | Linux, Cisco networking fundamentals, Java, APIs, automated testing and CI |
 
 ---
 
