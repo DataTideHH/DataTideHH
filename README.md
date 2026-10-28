@@ -35,7 +35,9 @@ I work with **SQL, Python, data modelling, APIs, data quality and reproducible a
 
 I am **seeking a mandatory internship in Hamburg**, ideally in analytics, BI, analytics engineering or a Microsoft-oriented data environment, with a perspective for continued employment.
 
-Before retraining, I worked in **B2B PR, media, communication and project-oriented roles**, including international business contexts. That experience helps me connect technical work with stakeholder needs, documentation and clear communication.
+Before retraining, I worked in **B2B PR, marketing and corporate communications**. I spent **over two years living and working in the United States (2017–2020)**, primarily in **New York City and Miami**, with additional experience in **Washington, D.C.**
+
+This international background helps me connect technical work with business requirements, stakeholder communication and cross-functional collaboration.
 
 ---
 
