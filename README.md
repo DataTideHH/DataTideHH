@@ -135,7 +135,7 @@ I use AI to support development, not to replace technical understanding. I remai
 | Data Fundamentals | Microsoft Azure Data Fundamentals (DP-900) | Exam planned 02/2027 |
 | Business Intelligence | Microsoft Power BI Data Analyst (PL-300) | Exam planned 2027 |
 | Office Productivity | Microsoft Office Specialist: Excel Associate – Microsoft 365 Apps (MO-210) | Exam planned 2027 |
-| Networking | Cisco CCNA (200-301) | Exam scheduled 22 December 2026 |
+| Networking | Cisco CCNA (200-301) | Exam scheduled 27 January 2027 |
 | Python | PCEP – Certified Entry-Level Python Programmer | Exam planned 12/2026 |
 | Python | PCAP – Certified Associate Python Programmer | Exam planned 01/2027 |
 | Linux | Linux Essentials | Completed |
