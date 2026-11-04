@@ -49,13 +49,13 @@ This combination of technical training, business experience and international pe
 
 | Area | Practical focus |
 |---|---|
-| Data & Process Analytics | Business KPIs, process metrics, bottleneck analysis and data-driven decision support |
-| Analytics Engineering | SQL transformations, relational data modelling, data contracts and automated quality checks |
-| Python Data Workflows | pandas, APIs, data validation and reproducible analytical pipelines |
-| Microsoft Data Platform | Power BI, SQL Server, semantic modelling and developing Microsoft Fabric/Azure skills |
-| Agentic AI & Automation | Governed AI tools, deterministic validation and clearly defined boundaries for model-generated output |
-| Business Communication | Connecting technical analysis with business requirements, stakeholders and decision-making |
-| IT Foundations | Linux, Cisco networking fundamentals, Java, APIs, automated testing and CI |
+| **Analytics Engineering** | SQL and Python transformations, relational data modelling, data contracts, reproducible pipelines and automated data-quality checks |
+| **Agentic AI & Automation** | Java / Spring AI, governed tool calling, schema validation, deterministic testing and evaluation workflows |
+| **Data & Process Intelligence** | Business KPIs, process performance, SLA analysis, bottleneck identification and evidence-based decision support |
+| **Microsoft Data Platform** | SQL Server and developing expertise in Power BI, semantic modelling, Microsoft Fabric and Azure |
+| **Python & API Integration** | pandas, REST APIs, data ingestion, validation and reproducible analytical workflows |
+| **Business & Stakeholder Communication** | Translating business requirements into technical solutions, communicating across teams and connecting analytics with business value |
+| **IT Foundations** | Linux, Cisco networking fundamentals, Java, automated testing, Git and CI/CD |
 
 ---
 
