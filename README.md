@@ -29,15 +29,19 @@
   <a href="https://www.linkedin.com/in/datatidehh/">LinkedIn</a>
 </p>
 
-I am retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, planned completion 12/2027)**. My direction is **Data & Process Analytics → Analytics Engineering → Microsoft Data Platform**, supported by practical work rather than job-title claims.
+I am retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, planned completion 12/2027)**, focusing on **Analytics Engineering, Agentic AI & Automation, and the Microsoft Data Platform**.
 
-I work with **SQL, Python, data modelling, APIs, data quality and reproducible analytical workflows**. I am developing my skills in **Power BI and Microsoft Fabric**, while exploring **agentic AI and process automation** through bounded, testable implementations.
+My primary interest is in connecting reliable data engineering with intelligent business process automation — turning data into actionable insights and building AI-assisted workflows that are transparent, testable and maintainable.
 
-I am **seeking a mandatory internship in Hamburg**, ideally in analytics, BI, analytics engineering or a Microsoft-oriented data environment, with a perspective for continued employment.
+I work with **SQL, Python, data modelling, APIs, data quality and reproducible analytical pipelines**. My portfolio includes hands-on projects in data engineering and process analytics, alongside a [**Java / Spring AI project**](https://github.com/DataTideHH/service-operations-ai-orchestration) implementing governed tool calling, validated analytics data and deterministic testing. I am continuing to develop my skills in Power BI, Microsoft Fabric and AI integration.
 
-Before retraining, I worked in **B2B PR, marketing and corporate communications**. I spent **over two years living and working in the United States (2017–2020)**, primarily in **New York City and Miami**, with additional experience in **Washington, D.C.**
+I am currently **seeking a mandatory internship in Hamburg** as part of my IHK retraining, with a flexible start date. I am particularly interested in data engineering, business intelligence, process intelligence and AI-driven automation. My goal is to contribute to meaningful projects, gain practical industry experience and ideally develop a long-term professional relationship.
 
-This international background helps me connect technical work with business requirements, stakeholder communication and cross-functional collaboration.
+My background combines university studies in German Studies, American Studies, Journalism and Media & Communication Studies with extensive professional experience in **B2B communications, corporate PR, marketing and project work** in Germany and the United States.
+
+From 2017 to 2020, I spent more than two years living and working professionally in the United States, primarily in New York City and Miami. I also hold **U.S. permanent resident status (Green Card)**.
+
+This combination of technical training, business experience and international perspective helps me understand requirements, communicate across disciplines and bridge the gap between technology, business processes and the people who rely on them.
 
 ---
 
