@@ -103,32 +103,18 @@ Each repository documents its implementation, tests and current scope.
 
 ---
 
-## Technical Learning Progression
-
-Three supporting projects form a deliberate progression:
-
-1. **[Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/)** — physical infrastructure, Cisco CLI, secure administration and IPv4/CCNA context.
-2. **[IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/)** — one bounded domain problem implemented in three languages, with explicit validation, shared domain test cases and CI.
-3. **[Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/)** — progression from compact Java logic toward a layered HTTP API with validation and persistence.
-
-This is supporting breadth around my analytics engineering and data-platform direction, not a claim of separate network-engineering or backend specialization.
-
----
-
 ## How I Work
 
-I approach data work from the business or process problem first:
+I start with the business or operational question, then work backwards to the data, transformations and checks needed to answer it reliably.
 
-- understand the business process and decision context
-- define what should be measured
-- identify, collect and validate the required data
-- model and transform data with SQL and Python
-- build reproducible analytical workflows
-- translate results into KPIs, reports and decision-oriented insights
-- communicate assumptions, limitations and recommendations clearly
-- use AI-assisted tools where they add value, while independently reviewing, testing and validating their output
+- **Understand the problem:** Identify the business process, the decision to be supported and the requirements behind it.
+- **Define the metrics:** Establish KPI definitions, data sources, assumptions and validation rules before building reports or automation.
+- **Build and validate:** Use SQL, Python and APIs to transform data, reconcile results and handle data-quality issues.
+- **Apply AI where it adds value:** Connect AI-assisted workflows to validated data through controlled tool access, explicit contracts and defined interpretation boundaries.
+- **Test and document:** Use automated tests, Git and CI to make implementations reproducible and reviewable.
+- **Communicate the findings:** Explain results, limitations and trade-offs in terms that technical and business stakeholders can understand.
 
-I use AI to support development, not to replace technical understanding. I remain responsible for the requirements, design decisions, correctness and maintainability of my work.
+AI-assisted development tools are part of my workflow. I review their output against source data, documented requirements and automated tests.
 
 ---
 
