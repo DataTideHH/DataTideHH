@@ -65,32 +65,34 @@ This combination of technical training, business experience and international pe
 
 | Notebook | Platform | Focus |
 |---|---|---|
-| [Delivery Delay KPI Analysis](https://www.kaggle.com/code/datatidehh/delivery-delay-kpi-analysis) / [GitHub mirror](https://github.com/DataTideHH/kaggle-portfolio-notebooks) | Kaggle / GitHub | Public Python/pandas EDA with business-rule validation, data-quality checks and BI-style KPI aggregation. Kaggle login may be required for the Kaggle-rendered version. |
+| [Delivery Delay KPI Analysis](https://www.kaggle.com/code/datatidehh/delivery-delay-kpi-analysis) / [GitHub mirror](https://github.com/DataTideHH/kaggle-portfolio-notebooks) | Kaggle / GitHub | Python/pandas analysis of delivery performance, including KPI calculations, business-rule checks and data-quality validation. The notebook is also available on GitHub without a Kaggle login. |
 
 ### Data / BI / Microsoft-oriented projects
 
+The first two projects form a connected workflow: a validated analytics pipeline provides the data foundation for a controlled Spring AI tool layer.
+
 | Project | What it demonstrates |
 |---|---|
-| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Tested local pipeline on deterministic synthetic service-operations data: Bronze/Silver/Gold Parquet layers, DuckDB SQL marts, metric contracts and SLA breach analysis. Microsoft Fabric and Power BI mapping planned, not implemented |
-| [Service Operations AI Orchestration](https://github.com/DataTideHH/service-operations-ai-orchestration) | Java 21 / Spring Boot / Spring AI companion that exposes the pinned analytics snapshot through two read-only tools, keeping KPI definitions and interpretation boundaries outside the model. Deterministic checks implemented, live-provider evaluation prepared but not yet executed |
-| [Excel to SQL Data Workflows](https://datatidehh.github.io/excel-to-sql-data-workflows/) | Cross-tool comparison of equivalent analytical intent across Excel, Power Query M, SQL Server T-SQL and Power BI DAX, backed by deterministic data, a generated workbook, 19 tests and Windows/Linux CI |
-| [SQL Server Docker Basics](https://github.com/DataTideHH/sql-server-docker-basics) | Reproducible SQL Server analytics lab with relational integrity, star schema and end-to-end CI |
-| [Python Data Basics](https://github.com/DataTideHH/python-data-basics) | Tested Python workflow for CSV validation, auditable rejections, KPI reconciliation and reporting |
-| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Public-safe operations analytics over a sanitized Cisco baseline using Python, SQLite, SQL validation views, automated tests and BI-style reporting |
-| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Public-safe relational analytics model with SQLite, reproducible Python builds, SQL reporting views, automated data-quality checks and documented Power BI semantic modelling with DAX evidence |
-| [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | Reproducible World Bank data service with validated ingestion, constrained SQLite persistence, versioned Flask endpoints, SQL data-quality checks, OpenAPI 3.1 and cross-platform CI |
-| [Hamburg District Data Basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Tested Altona district-data workflow using official Hamburg data, pandas, dataset contracts, automated validation, descriptive analysis and Power BI design |
+| [Service Operations AI Orchestration](https://github.com/DataTideHH/service-operations-ai-orchestration) | Java 21 / Spring AI application exposing SLA metrics from a validated, versioned analytics snapshot through two read-only tools. Includes schema validation, numerical reconciliation and a reproducible evaluation framework. Live LLM evaluation remains pending. |
+| [Fabric Service Operations Analytics](https://github.com/DataTideHH/fabric-service-operations-analytics) | Local Python/SQL pipeline processing synthetic service-operations data through Bronze/Silver/Gold Parquet layers and DuckDB. Includes SLA reporting, metric contracts and derived process-event analysis. Microsoft Fabric deployment and Power BI reporting remain planned. |
+| [Excel to SQL Data Workflows](https://datatidehh.github.io/excel-to-sql-data-workflows/) | Explores how the same business questions can be answered in Excel, Power Query M, SQL Server T-SQL and Power BI DAX, including differences in calculation semantics and 19 automated tests. |
+| [Music Production Data Lab](https://datatidehh.github.io/music-production-data-lab/) | Relational model of music-production equipment and workflows, with Python/SQLite processing, SQL reporting and documented Power BI analysis, including DAX measures and a reviewed overview export. |
+| [Flask Country Data API](https://datatidehh.github.io/flask-country-data-api/) | World Bank data ingestion into SQLite, with source validation, transactional updates, versioned Flask endpoints, OpenAPI documentation and SQL-based data-quality checks. |
+| [SQL Server Docker Basics](https://github.com/DataTideHH/sql-server-docker-basics) | SQL Server lab covering relational constraints, star-schema modelling and automated verification in CI. |
+| [Hamburg District Data Basics](https://github.com/DataTideHH/hamburg-district-data-basics) | Analysis of official Hamburg district data using pandas, documented dataset rules and validation checks, with a proposed Power BI reporting design. |
+| [Network Operations Data Lab](https://datatidehh.github.io/network-operations-data-lab/) | Turns sanitized Cisco infrastructure records into a SQLite data model, SQL analysis views and quality reports. Demonstrates how operational IT data can support structured reporting. |
+| [Python Data Basics](https://github.com/DataTideHH/python-data-basics) | CSV processing workflow with input validation, traceable rejected records, KPI calculations and reporting tests. |
 
 ### Supporting IT foundations
 
 | Project | What it demonstrates |
 |---|---|
-| [Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/) | Physical Catalyst 3560CX lab documenting secure management, IOS maintenance, NTP, verification and CCNA-oriented switching work |
-| [IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/) | One IPv4/CIDR specification implemented in Java 21, C++20 and Python 3.12 with shared contract cases and GitHub Actions |
-| [Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/) | Small Java 21 / Spring Boot REST API with layered structure, validation and basic persistence for process-check data |
-| [remote-access-network-lab](https://github.com/DataTideHH/remote-access-network-lab) | Public-safe Tailscale remote-access lab documenting native SSH over a private mesh VPN, trust boundaries, least-privilege design, device lifecycle and offboarding |
+| [Cisco Switching Lab](https://datatidehh.github.io/cisco-switching-lab/) | Hands-on configuration and verification of a physical Cisco Catalyst 3560CX switch, including secure management, IOS maintenance, NTP and CCNA-related networking tasks. |
+| [IPv4 Subnet Calculator Multilang](https://datatidehh.github.io/ipv4-subnet-calculator-multilang/) | The same IPv4/CIDR calculation logic implemented in Java 21, C++20 and Python 3.12, using shared test cases to compare behaviour across languages. |
+| [Spring Boot Process API Basics](https://datatidehh.github.io/spring-boot-process-api-basics/) | Small Java 21 / Spring Boot REST API demonstrating request validation, layered application design and basic data persistence. |
+| [Remote Access Network Lab](https://github.com/DataTideHH/remote-access-network-lab) | Tailscale and SSH lab documenting private remote access, trust boundaries, least-privilege access and device offboarding. |
 
-These repositories are intentionally focused and practical. They are not meant to simulate enterprise-scale systems, but to document a clear learning path, reproducible workflows and steadily growing professional competence.
+Each repository documents its implementation, tests and current scope.
 
 ---
 
