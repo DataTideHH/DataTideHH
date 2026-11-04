@@ -4,7 +4,7 @@
 
 # Tobias Wietelmann | DataTideHH
 
-**Data & Process Analytics · SQL · Python · Data Quality · Process Intelligence · Power BI / Microsoft Fabric (developing) · Hamburg**
+**Analytics Engineering × Agentic AI & Automation (focus) · Data & Process Intelligence · SQL · Python · Microsoft Fabric / Power BI (developing) · Hamburg**
 
 <p align="center">
   <a href="https://github.com/DataTideHH/DataTideHH/actions/workflows/pages/pages-build-deployment">
@@ -29,9 +29,9 @@
   <a href="https://www.linkedin.com/in/datatidehh/">LinkedIn</a>
 </p>
 
-I am completing retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion in 2027)**. My professional direction is **Data & Process Analytics → Analytics Engineering / Microsoft Data Platform**, built on demonstrable project work rather than job-title claims.
+I am completing retraining as a **Fachinformatiker für Daten- und Prozessanalyse (IHK, expected completion in 2027)**. My professional direction is **Analytics Engineering × Agentic AI & Automation**, with a Microsoft data-platform focus. I work toward this through reproducible, reviewable projects rather than job-title claims.
 
-I work with **SQL, Python, data modelling, APIs, data quality and reproducible analytical workflows**. I am developing my skills in **Power BI and Microsoft Fabric**, while applying **AI tooling and process automation** in bounded, testable workflows. My priority is trustworthy data and measurable business outcomes rather than AI claims.
+I work with **SQL, Python, data modelling, APIs, data quality and reproducible analytical workflows**. For **Agentic AI & Automation**, my implemented Java 21 / Spring AI project provides two read-only, contract-governed analytics tools and deterministic validation; live-model evaluation has not yet been performed. I am developing my **Power BI and Microsoft Fabric** skills. The goal is reliable, auditable AI-assisted business processes grounded in validated data.
 
 **Currently seeking a mandatory 120-working-day internship in Hamburg (start date flexible by agreement).** My preferred work is in data and process analysis, SQL-based data transformation, BI/reporting or Microsoft-oriented data environments. I would particularly welcome a team where a longer-term employment perspective can develop.
 
@@ -45,11 +45,11 @@ This international background helps me connect technical work with business requ
 
 | Area | Practical focus |
 |---|---|
+| Agentic AI & Automation | Contract-governed tool calling, deterministic checks, bounded autonomy and evaluation design in Java / Spring AI |
 | Data & Process Analytics | Business KPIs, process metrics, bottleneck analysis and data-driven decision support |
 | Analytics Engineering | SQL transformations, relational data modelling, data contracts and automated quality checks |
 | Python Data Workflows | pandas, APIs, data validation and reproducible analytical pipelines |
 | Microsoft Data Platform | Power BI, SQL Server, semantic modelling and developing Microsoft Fabric/Azure skills |
-| Agentic AI & Automation | Governed AI tools, deterministic validation and clearly defined boundaries for model-generated output |
 | Business Communication | Connecting technical analysis with business requirements, stakeholders and decision-making |
 | IT Foundations | Linux, Cisco networking fundamentals, Java, APIs, automated testing and CI |
 
